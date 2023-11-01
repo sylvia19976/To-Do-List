@@ -1,0 +1,39 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+ul.activities {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.activity {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border: none;
+}
